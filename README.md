@@ -1,5 +1,5 @@
-<a href="https://kemranbatcaev02-gif.github.io">
-  <img src="assets/banner.gif" width="100%" alt="Кемран (Kema) — Backend & Desktop разработчик. Python, FastAPI, C++, C#. Мессенджер Connecto и соцсеть Bloom.">
+﻿<a href="https://kemranbatcaev02-gif.github.io">
+  <img src="assets/banner.gif" width="100%" alt="Кемран (Kema) — Backend & Desktop разработчик. Go, Python, FastAPI, C++, C#. Проекты DockDash, Connecto и Bloom.">
 </a>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <img src="assets/h-about.png" width="100%" alt="Обо мне">
 
-<img src="assets/about.png" width="100%" alt="Я Кемран, мне 18. Учусь на втором курсе ИЦТ СКГА на программиста. Пишу бэкенд на Python и FastAPI, десктоп на C++ и C#, сам поднимаю сервера на Linux.">
+<img src="assets/about.png" width="100%" alt="Я Кемран, мне 18. Учусь на втором курсе ИЦТ СКГА на программиста. Пишу бэкенд и микросервисы на Go, Python и FastAPI, системные утилиты и десктоп на C++ и C#, администрирую Linux-сервера.">
 
 <br>
 
@@ -31,6 +31,12 @@
 <br>
 
 <img src="assets/h-done.png" width="100%" alt="Что уже готово">
+
+<p align="center">
+  <a href="https://github.com/kemranbatcaev02-gif/dockdash">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kemranbatcaev02-gif&repo=dockdash&theme=tokyonight&border_color=3ca6ff" alt="DockDash — Terminal Docker Dashboard on Go" />
+  </a>
+</p>
 
 <p>
   <a href="https://github.com/kemranbatcaev02-gif/tetris-deluxe"><img src="assets/p-tetris.png" width="49%" alt="Tetris Deluxe"></a>
@@ -53,16 +59,14 @@
 
 <img src="assets/h-plans.png" width="100%" alt="В планах">
 
-<img src="assets/plans.png" width="100%" alt="1. Открыть Connecto для всех и выпустить в Google Play, App Store и RuStore. 2. Защитить Bloom на акселераторе Leader-ID. 3. Релиз Bloom. 4. Рабочее место с ПК на AM5.">
+<img src="assets/plans.png" width="100%" alt="1. Открыть Connecto для всех и выпустить в Google Play, App Store и RuStore. 2. Защитить Bloom на акселераторе Leader-ID. 3. Релиз Bloom. 4. Развитие экосистемы утилит на Go и C++.">
 
 <br>
 
 <img src="assets/h-stack.png" width="100%" alt="Стек">
 
-<img src="assets/stack.png" width="100%" alt="Python, FastAPI, PostgreSQL, SQLite, Redis, C++, SFML, C#, WPF, PySide6, HTML, CSS, JavaScript, Kotlin, Jetpack Compose, Git, Docker, Linux, VS Code">
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,cpp,cs,kotlin,html,css,js,docker,linux,ubuntu,git,vscode&theme=dark&perline=15" width="100%" alt="Иконки стека">
+  <img src="https://skillicons.dev/icons?i=go,python,fastapi,postgres,redis,cpp,cs,kotlin,html,css,js,docker,linux,ubuntu,git,vscode&theme=dark&perline=16" width="100%" alt="Иконки стека">
 </p>
 
 <br>
