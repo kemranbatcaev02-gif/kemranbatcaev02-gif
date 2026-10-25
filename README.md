@@ -130,7 +130,7 @@
 ## ⚙️ Мой сетап (Battle Station)
 
 - **Ноутбук:** Gigabyte G5 KF (Intel Core i5-12500H, NVIDIA GeForce RTX 4060 Laptop 8GB, 16GB DDR4, 512GB NVMe SSD)
-- **Клавиатура:** MCHOSE Ace 68 V2 (механическая, смазанные переключатели)
+- **Клавиатура:** MCHOSE Ace 68 V2 (магнитная, переключатели на эффекте Холла / Hall Effect, Rapid Trigger)
 - **Мышь:** MCHOSE A5 V2 Ultra (легкая беспроводная, оптический сенсор PAW3395)
 - **Наушники:** MCHOSE S9 Pro
 - **Микрофон:** Ardor Gaming
