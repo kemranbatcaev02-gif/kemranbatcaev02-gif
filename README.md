@@ -1,6 +1,6 @@
 ﻿<p align="center">
   <a href="https://kemranbatcaev02-gif.github.io">
-    <img src="assets/manga-banner.jpg" width="100%" alt="Kemran (Kema) — Backend, Desktop & Mobile Developer" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);" />
+    <img src="assets/manga-banner.jpg" width="100%" alt="Kemran (Kema) — Portfolio & Projects" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);" />
   </a>
 </p>
 
@@ -18,14 +18,14 @@
 
 ---
 
-## 👨‍💻 Обо мне
+## 🧭 Обо мне
 
 <table>
   <tr>
     <td width="38%" align="center" valign="top">
-      <img src="assets/manga-avatar.jpg" width="100%" style="border-radius: 14px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Kemran Manga Avatar" />
+      <img src="assets/manga-avatar.jpg" width="100%" style="border-radius: 14px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);" alt="Manga Character Portrait" />
       <br/>
-      <sub><i>⚡ Kema · Backend, Desktop & Cross-Platform Dev</i></sub>
+      <sub><i>⚡ Kema · Backend, Mobile & Systems Engineer</i></sub>
     </td>
     <td width="62%" valign="top">
       <h3>Привет, я Кемран 👋</h3>
@@ -36,7 +36,7 @@
         Проектирую и создаю независимые программные экосистемы «с нуля»: от высоконагруженных асинхронных бэкендов и сквозного E2E-шифрования до кроссплатформенных мобильных клиентов на <b>Flutter</b>, реактивных терминальных утилит на <b>Go</b> и десктопных приложений на <b>C++</b> и <b>Python</b>.
       </p>
       <ul>
-        <li>🚀 <b>Специализация:</b> Highload Backend, Cross-Platform UI (Flutter), Desktop GUI, TUI, Network Security.</li>
+        <li>🚀 <b>Специализация:</b> Highload Backend, Cross-Platform Mobile (Flutter), Desktop GUI, TUI, Network Security.</li>
         <li>🛡️ <b>Фокус:</b> Приватность, криптография (Zero-Knowledge, Curve25519), чистая архитектура и высокая отзывчивость интерфейсов (60/120 FPS, Zero UI Freezes).</li>
         <li>🐧 <b>Окружение:</b> Самостоятельно администрирую Linux-сервера (Ubuntu, Caddy v2, Nginx, Docker, Systemd), в качестве основной рабочей станции использую связку CachyOS (Arch) + Hyprland и Windows 11.</li>
       </ul>
@@ -113,13 +113,13 @@
 
 ---
 
-## 🎨 Творческая студия и инженерная лаборатория
+## 🌙 Путь и ориентиры
 
 <p align="center">
-  <img src="assets/manga-loft.jpg" width="100%" alt="Engineering & Architecture Studio" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);" />
+  <img src="assets/manga-ronin.jpg" width="100%" alt="Solitary Ronin under Full Moon" style="border-radius: 14px; box-shadow: 0 8px 30px rgba(0,0,0,0.6);" />
 </p>
 
-### 🎯 Текущие цели и планы:
+### 🎯 Текущие цели:
 1. 🚀 **Connecto:** Открытие публичного доступа к веб-версии, релиз мобильного клиента в Google Play, RuStore и App Store.
 2. 🏆 **Bloom:** Защита концепции и архитектуры на акселераторе проектов Leader-ID с последующим выходом в бета-тестирование.
 3. 📦 **Open-Source:** Развитие экосистемы легковесных терминальных утилит на Go и высокопроизводительных модулей на C++.
