@@ -89,7 +89,7 @@
 | Направление | Технологии и инструменты |
 | :--- | :--- |
 | **Языки** | **Go** • **Rust** • **Python** • **Dart** • **JavaScript / TypeScript** • **C++** • **SQL** |
-| **Backend & CLI/TUI** | **Go** (Bubble Tea, net/http) • **Rust** (Tokio, Clap, Axum) • **FastAPI** • WebSockets • REST API |
+| **Backend & CLI/TUI** | **Go** (Bubble Tea, net/http) • **Rust** (Tokio, Clap, Axum) • **Python** (FastAPI, CLI tools) • WebSockets • REST API |
 | **Frontend & Mobile** | **React** • **Svelte** • **Flutter** (Android, Web, Desktop) • Tailwind CSS • HTML5 / CSS3 |
 | **Базы данных & Хранение** | **PostgreSQL** • **Redis** • **SQLite** (WAL mode) |
 | **Инфраструктура & DevOps** | **Docker** • **Docker Compose** • **Linux** (Ubuntu Server, Arch) • **Caddy** • **Nginx** • **Git & GitHub Actions** |
