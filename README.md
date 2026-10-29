@@ -78,6 +78,11 @@
 - **Стек:** `Python 3.8+` (Zero Dependencies), Git CLI integration, state persistence.
 - **Что внутри:** 4 вида питомцев (Neko, Rex, Ferris, Shiba), шкалы сытости и настроения, режим бога (10x Dev) при 20+ коммитах и поддержка Git post-commit хуков.
 
+### 10. 🔥 [Code Roaster](https://github.com/kemranbatcaev02-gif/code-roaster)
+> **Ироничный CLI-ревьюер кода в терминале.**
+- **Стек:** `Python 3.8+` (Zero Dependencies), AST & Regex Heuristics, ANSI Colors.
+- **Что внутри:** 4 личности ревьюеров (Сеньор Геннадий, Шеф Гордон Рамзи, Кибер-Аудитор, Тимлид), шкала прожарки (Flame Score), детект антипаттернов и аудит git-коммитов.
+
 ---
 
 ## 🛠 Технологический стек
