@@ -71,17 +71,17 @@
 ### 8. 🎨 [Git Heatmap Painter](https://github.com/kemranbatcaev02-gif/git-heatmap-painter)
 > **Консольный инструмент для рисования пиксель-арта на графике активности GitHub.**
 - **Стек:** `Python 3.8+` (Zero Dependencies), `Subprocess`, `ANSI Colors`.
-- **Что внутри:** Пресеты (Invader, Cat, Heart, Ghost, Skull), генератор 7-строчного текста, предпросмотр в терминале и мгновенный буст активности.
+- **Что внутри:** Пресеты (Invader, Cat, Heart, Ghost, Skull, Star), генератор 7-строчного текста, предпросмотр в терминале, streak-saver для спасения стриков и мгновенный буст активности.
 
 ### 9. 👾 [Commit-Gotchi](https://github.com/kemranbatcaev02-gif/commit-gotchi)
 > **Терминальный виртуальный питомец-тамагочи, питающийся коммитами в Git.**
 - **Стек:** `Python 3.8+` (Zero Dependencies), Git CLI integration, state persistence.
-- **Что внутри:** 4 вида питомцев (Neko, Rex, Ferris, Shiba), шкалы сытости и настроения, режим бога (10x Dev) при 20+ коммитах и поддержка Git post-commit хуков.
+- **Что внутри:** 5 видов питомцев (Neko, Rex, Ferris, Shiba, Ducky), подсчет непрерывного стрика коммитов, шкалы сытости и настроения, режим бога (10x Dev) и Git post-commit хуки.
 
 ### 10. 🔥 [Code Roaster](https://github.com/kemranbatcaev02-gif/code-roaster)
 > **Ироничный CLI-ревьюер кода в терминале.**
 - **Стек:** `Python 3.8+` (Zero Dependencies), AST & Regex Heuristics, ANSI Colors.
-- **Что внутри:** 4 личности ревьюеров (Сеньор Геннадий, Шеф Гордон Рамзи, Кибер-Аудитор, Тимлид), шкала прожарки (Flame Score), детект антипаттернов и аудит git-коммитов.
+- **Что внутри:** 5 личностей ревьюеров (Сеньор Геннадий, Шеф Гордон Рамзи, Кибер-Аудитор, Тимлид, Джуниор Саня), экспорт в JSON, шкала прожарки (Flame Score), детект антипаттернов и аудит git-коммитов.
 
 ---
 
