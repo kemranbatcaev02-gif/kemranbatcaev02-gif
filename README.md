@@ -35,6 +35,7 @@
 | [Commit-Gotchi](https://github.com/kemranbatcaev02-gif/commit-gotchi) | Python, Git CLI | Терминальный питомец для отслеживания активности и стрика коммитов. |
 | [Git Heatmap Painter](https://github.com/kemranbatcaev02-gif/git-heatmap-painter) | Python, Git CLI | Утилита для генерации пиксель-арта на сетке активности GitHub. |
 | [Connecto](https://github.com/kemranbatcaev02-gif/Connecto---private-messenger) | Flutter, Python, WebRTC | Мессенджер со сквозным E2E-шифрованием сообщений и звонков. |
+| [Valdrees Pack](https://github.com/kemranbatcaev02-gif/valdrees-pack) | Resource Pack, JSON | Официальный ресурспак для сервера Valdrees RP в Minecraft. |
 | [SystemMonitor](https://github.com/kemranbatcaev02-gif/SystemMonitor) | Python, PySide6, psutil | Десктопный монитор системных ресурсов и процессов. |
 | [Tetris Deluxe](https://github.com/kemranbatcaev02-gif/tetris-deluxe) | C++17, SFML 3.0 | Аркадная игра с системой уровней и физикой частиц. |
 
